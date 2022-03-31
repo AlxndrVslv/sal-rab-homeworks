@@ -18,8 +18,6 @@ function calcShipping(sum, min, shipping) {
 
     // Конец решения задания №2.1.
 
-    // comment
-
     return shippingSum;
 }
 
